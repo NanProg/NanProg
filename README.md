@@ -17,7 +17,7 @@
 <img align="center" alt ="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanProg&hide_progress=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NanProg&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 Amo desenvolver sites, softwares e interagir com tudo que for relacionado a tecnologia! 😄
 
