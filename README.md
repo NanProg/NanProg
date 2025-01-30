@@ -1,13 +1,6 @@
 
 ### Olá! Meu nome é Renan Cardoso 🙋🏾‍♂️
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nan_3D_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seki_021/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NanDev021?si=cJjR-aGyTb0KMHHy)
-
-
-![Nan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NanProg&show_icons=true&theme=dark)
-
 ## Tecnologias no qual estou estudando
 
 <div style="display: inline_block"><br/>
